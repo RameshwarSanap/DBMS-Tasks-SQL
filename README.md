@@ -5,28 +5,33 @@ assignments, ER diagrams, and normalization examples.
 
 ## 📁 Folder Structure
 
+## 📁 Folder Structure
+
+```text
 DBMS-Lab/
 │
 ├── Practicals/
-│ ├── Practical_01/
-│ │ ├── problem.pdf
-│ │ └── solution.sql
-│ │
-│ ├── Practical_02/
-│ │ └── queries.sql
+│   ├── Practical_01/
+│   │   ├── problem.pdf
+│   │   └── solution.sql
+│   │
+│   ├── Practical_02/
+│   │   └── queries.sql
 │
 ├── Assignments/
-│ ├── Assignment_1.sql
-│ └── Assignment_2.sql
+│   ├── Assignment_1.sql
+│   └── Assignment_2.sql
 │
 ├── ER-Diagrams/
-│ ├── library_system.png
-│ └── hospital_system.png
+│   ├── library_system.png
+│   └── hospital_system.png
 │
 ├── Normalization/
-│ └── normalization_examples.md
+│   └── normalization_examples.md
 │
 └── README.md
+```
+
 
 
 ## 🧠 Topics Covered
