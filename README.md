@@ -5,8 +5,6 @@ assignments, ER diagrams, and normalization examples.
 
 ## 📁 Folder Structure
 
-## 📁 Folder Structure
-
 ```text
 DBMS-Lab/
 │
